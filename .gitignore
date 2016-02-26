@@ -1,0 +1,8 @@
+# Created by .ignore support plugin (hsz.mobi)
+.idea
+crud.ipr
+crud.iws
+gradle-webapp.iml
+.gradle
+!settings.gradle
+!build.gradle

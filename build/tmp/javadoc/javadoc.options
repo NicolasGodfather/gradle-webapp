@@ -1,0 +1,6 @@
+-classpath 'E:\\JAVA\\It-Sphere\\crud\\build\\classes\\main;E:\\JAVA\\It-Sphere\\crud\\build\\resources\\main'
+-d 'E:\\JAVA\\It-Sphere\\crud\\build\\docs\\javadoc'
+-doctitle 'crud 1.0-SNAPSHOT API'
+-quiet 
+-windowtitle 'crud 1.0-SNAPSHOT API'
+'E:\\JAVA\\It-Sphere\\crud\\src\\main\\java\\Main.java'
